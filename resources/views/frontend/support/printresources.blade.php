@@ -21,7 +21,7 @@
             <form action="{{ route('submit.printresources') }}" method="POST">
                 @csrf
                 <div class="col-lg-7">
-                    <h4 class="text-dark">Complete the form below to order printed copies of the BK Online Product
+                    <h4 class="text-dark">Complete the form below to order printed copies of the OpulentHomeInteriors Product
                         Guide.
                         All fields are
                         required are we may first contact you to verify your request.</h4>
@@ -94,7 +94,7 @@
                         <div class="col-12">
                             <input class="form-check-input" type="checkbox" value="" id="consent">
                             <label class="form-check-label" for="consent">
-                                By submitting this form, I agree to BK Online's terms and privacy
+                                By submitting this form, I agree to OpulentHomeInteriors's terms and privacy
                                 policy
                             </label>
                             <p class="pt-1"><a href="{{ route('privacy') }}">View our Privacy Policy</a></p>

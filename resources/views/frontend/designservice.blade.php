@@ -17,7 +17,7 @@
                 </h1>
 
                 <h4>
-                    At BK Online we want to make ordering a trade kitchen as easy as possible. From offering a FREE
+                    At OpulentHomeInteriors we want to make ordering a trade kitchen as easy as possible. From offering a FREE
                     Virtual Design Kitchen Service to providing 'How To' Videos we are constantly looking at ways to
                     support you.
                 </h4>

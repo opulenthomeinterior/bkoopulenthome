@@ -145,7 +145,7 @@
                                     <input type="text" class="form-control" id="order_reference"
                                         name="order_reference" placeholder="0 of 15 max characters" />
                                     <small>Enter a personalized reference number so you can easily identify this
-                                        purchase among your other BK Online orders.</small>
+                                        purchase among your other OpulentHomeInteriors orders.</small>
                                 </div>
                             </div>
 

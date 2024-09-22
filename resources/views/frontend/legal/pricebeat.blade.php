@@ -32,14 +32,14 @@
                             style, and composition.</small></li>
                     <li class="my-1"><i class="ri-arrow-right-s-fill"></i><small>We will only accept competitor quotes
                             from Howdens, Wickes, Selco, B&Q, and Homebase.</small></li>
-                    <li class="my-1"><i class="ri-arrow-right-s-fill"></i><small>Excludes quotes from BK Online
+                    <li class="my-1"><i class="ri-arrow-right-s-fill"></i><small>Excludes quotes from OpulentHomeInteriors
                             resellers including marketplaces.</small></li>
                     <li class="my-1"><i class="ri-arrow-right-s-fill"></i><small>This offer is for trade customers
                             only who have a trade account on our e-commerce site.</small></li>
                     <li class="my-1"><i class="ri-arrow-right-s-fill"></i><small>Offer applies to UK and NI
                             only.</small></li>
                     <li class="my-1"><i class="ri-arrow-right-s-fill"></i><small>Applies to any kitchen order (min 8
-                            items) for any of the ranges within BK Online.</small></li>
+                            items) for any of the ranges within OpulentHomeInteriors.</small></li>
                     <li class="my-1"><i class="ri-arrow-right-s-fill"></i><small>Applies to any rigid or flat-packed
                             kitchen order.</small></li>
                     <li class="my-1"><i class="ri-arrow-right-s-fill"></i><small>Excludes online-only
@@ -58,7 +58,7 @@
                             30 days prior to the issue of our quote. All quotes must be issued in writing on
                             competitors’ headed paper or from its official email address. We reserve the right to verify
                             the authenticity of a competitor quote.</small></li>
-                    <li class="my-1"><i class="ri-arrow-right-s-fill"></i><small>All BK Online quotes are valid for
+                    <li class="my-1"><i class="ri-arrow-right-s-fill"></i><small>All OpulentHomeInteriors quotes are valid for
                             30 days.</small></li>
                     <li class="my-1"><i class="ri-arrow-right-s-fill"></i><small>Offer not valid in conjunction with
                             any other offer.</small></li>

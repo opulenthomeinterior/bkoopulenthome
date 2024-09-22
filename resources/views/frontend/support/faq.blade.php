@@ -20,9 +20,9 @@
         <div class="row">
             <div class="col-12 text-center">
                 <h1 class="fs-1 text-dark text-uppercase fw-bolder">
-                    BK Online FAQ's
+                    OpulentHomeInteriors FAQ's
                 </h1>
-                <h4 class="text-dark">Have a question about BK Online? Check here to view the ones that we are most
+                <h4 class="text-dark">Have a question about OpulentHomeInteriors? Check here to view the ones that we are most
                     commonly asked.</h4>
             </div>
         </div>
@@ -31,7 +31,7 @@
     <section class="container-fluid px-lg-5 px-md-3 px-3 py-5">
         <div class="row">
             <div class="col-lg-12">
-                <h3 class="text-dark text-uppercase fw-bolder">General BK Online FAQ</h3>
+                <h3 class="text-dark text-uppercase fw-bolder">General OpulentHomeInteriors FAQ</h3>
                 <div class="accordion accordion-flush" id="accordionFlushExample">
                     @if ($generalFaqs->count() > 0)
                         @foreach ($generalFaqs as $faq)

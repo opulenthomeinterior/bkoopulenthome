@@ -33,7 +33,7 @@
                             <h4 class="fw-bolder text-dark text-uppercase">promotion terms & conditions</h4>
                         </div>
                         <div class="card-body py-3">
-                            <p>Terms and contitions for promotions on BK Online website</p>
+                            <p>Terms and contitions for promotions on OpulentHomeInteriors website</p>
                         </div>
                     </div>
                 </a>

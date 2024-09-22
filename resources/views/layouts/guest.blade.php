@@ -18,10 +18,10 @@ use App\Models\Style;
     <?php $current_uri = request()->segments(); ?>
     <?php $page_slug = ucwords(str_replace(['-', '_'], ' ', last($current_uri))); ?>
 
-    <title>Affordable Kitchen & Custom Kitchen Units in London | BK Online</title>
+    <title>Affordable Kitchen & Custom Kitchen Units in London | OpulentHomeInteriors</title>
 
     <!-- App favicon -->
-    <link rel="shortcut icon" href="{{ asset('images/BKO_LOGO.png') }}">
+    <link rel="shortcut icon" href="{{ asset('images/opulenthomelogo.png') }}">
 
     <!-- Layout config Js -->
     <script src="{{ asset('js/layout.js') }}"></script>
@@ -217,7 +217,7 @@ use App\Models\Style;
         <nav class="nav container">
             <div class="nav__data">
                 <a href="{{ route('home') }}" class="nav__logo text-start flex-grow-1">
-                    <img src="{{ asset('images/BKO_LOGO.png') }}" width="100px" />
+                    <img src="{{ asset('images/opulenthomelogo.png') }}" width="100px" />
                 </a>
 
                 <a href="#" class="d-lg-none show-small d-flex" id="searchIcon"><i
@@ -355,7 +355,7 @@ use App\Models\Style;
                                         </li>
                                         <li>
                                             <a href="{{ route('faq') }}" class="dropdown__link">
-                                                <i class="ri-arrow-right-s-fill"></i>BK Online FAQS</a>
+                                                <i class="ri-arrow-right-s-fill"></i>OpulentHomeInteriors FAQS</a>
                                         </li>
                                         <li>
                                             <a href="{{ route('fittingguide') }}" class="dropdown__link">
@@ -433,7 +433,7 @@ use App\Models\Style;
             <section class="">
                 <div class="row">
                     <div class="col-lg-3 col-md-6 mb-4 mb-md-0 text-start">
-                        <img src="{{ asset('images/BKO_LOGO.png') }}" width="100px" />
+                        <img src="{{ asset('images/opulenthomelogo.png') }}" width="100px" />
                         <h6 class="my-3">Customer Service Hours</h6>
 
                         <ul class="footer-ul list-unstyled mb-0">
@@ -456,7 +456,7 @@ use App\Models\Style;
                                     role="button"><i class="ri-linkedin-fill"></i></a>
                             </li>
 
-                            <li><i class="ri-mail-line mt-1"></i>customerservices@bkonline.co.uk</li>
+                            <li><i class="ri-mail-line mt-1"></i>customerservices@opulenthomeinteriors.co.uk</li>
                             <li><i class="ri-phone-line"></i>0800 043 0804</li>
                         </ul>
                     </div>

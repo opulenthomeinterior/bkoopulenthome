@@ -7,7 +7,7 @@
                 </h1>
                 <h3 class="text-uppercase py-2 text-dark">FIND OUT EVERYTHING YOU NEED TO KNOW </h3>
                 <h4 class="text-dark pt-1">
-                    At BK Online we want to make ordering a trade kitchen as easy as possible. From offering a FREE
+                    At OpulentHomeInteriors we want to make ordering a trade kitchen as easy as possible. From offering a FREE
                     Virtual Design Kitchen Service to providing ‘How To Videos’ we are constantly looking at ways to
                     support you.
                     </h5>
@@ -76,7 +76,7 @@
                     </div>
                     <div class="card-body about-card-body">
                         <div class="about-card-content">
-                            <h4 class="text-uppercase fs-3 fw-bold text-dark">BK Online Faqs</h4>
+                            <h4 class="text-uppercase fs-3 fw-bold text-dark">OpulentHomeInteriors Faqs</h4>
                             <div class="text-dark">Having been making, packing and distributing kitchens since 1990, we
                                 have developed
                                 trusted

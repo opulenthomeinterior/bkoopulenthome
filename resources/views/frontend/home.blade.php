@@ -12,7 +12,7 @@
         <div class="row py-4">
             <div class="col-12 text-center">
                 <h1 class="fs-3 text-white text-uppercase fw-bolder">
-                    BK Online Kitchens: Quality Design, Installation, and Affordability in One Package
+                    OpulentHomeInteriors Kitchens: Quality Design, Installation, and Affordability in One Package
                 </h1>
                 <a href="{{ route('orderkitchen') }}" class="mt-4 btn btn-md bg-white fw-bolder text-uppercase rounded-0"
                     href="{{ route('orderkitchen') }}">Order Now</a>
@@ -65,19 +65,19 @@
         <div class="row">
             <div class="col-12">
                 <p>
-                    BK Online is a premier provider of complete kitchen solutions, specialising in the design and delivery of ready-made kitchens, rigid kitchen units, and components in slab, shaker, or J-pull styles. Serving London and the surrounding areas, we pride ourselves on delivering showroom-quality kitchens directly to your door.
+                    OpulentHomeInteriors is a premier provider of complete kitchen solutions, specialising in the design and delivery of ready-made kitchens, rigid kitchen units, and components in slab, shaker, or J-pull styles. Serving London and the surrounding areas, we pride ourselves on delivering showroom-quality kitchens directly to your door.
                 </p>
                 <p>
-                    At BK Online, we are committed to crafting every kitchen with precision and care, ensuring that our customers receive only the highest quality products. Our years of experience in kitchen design and manufacturing allow us to offer a seamless and stress-free ordering process, from initial design consultation to final delivery.
+                    At OpulentHomeInteriors, we are committed to crafting every kitchen with precision and care, ensuring that our customers receive only the highest quality products. Our years of experience in kitchen design and manufacturing allow us to offer a seamless and stress-free ordering process, from initial design consultation to final delivery.
                 </p>
                 <p>
                     Operating from state-of-the-art facilities, our skilled workforce uses the latest sustainable manufacturing techniques to create kitchens that not only meet but exceed our clients' expectations. Our dedication to innovation ensures that our customers always have access to the most up-to-date designs and materials.
                 </p>
                 <p>
-                    Whether you're looking for a modern slab kitchen, a timeless shaker design, or the sleek lines of a J-pull handleless kitchen, BK Online makes it easy. Our kitchens are designed to be user-friendly, with components that are straightforward to assemble, thanks to our advanced clic technology. We offer both flat-pack and pre-assembled options, with fast and reliable delivery times—receive your flat-pack kitchen in just 3 working days (UK Mainland) or opt for our pre-assembled units with a lead time of 10 working days until dispatch.
+                    Whether you're looking for a modern slab kitchen, a timeless shaker design, or the sleek lines of a J-pull handleless kitchen, OpulentHomeInteriors makes it easy. Our kitchens are designed to be user-friendly, with components that are straightforward to assemble, thanks to our advanced clic technology. We offer both flat-pack and pre-assembled options, with fast and reliable delivery times—receive your flat-pack kitchen in just 3 working days (UK Mainland) or opt for our pre-assembled units with a lead time of 10 working days until dispatch.
                 </p>
                 <p>
-                    Born out of a passion for offering better kitchen solutions, BK Online stands as a trusted partner in creating kitchens that bring joy for years to come. We invite you to explore our range and experience the difference that quality craftsmanship can make.
+                    Born out of a passion for offering better kitchen solutions, OpulentHomeInteriors stands as a trusted partner in creating kitchens that bring joy for years to come. We invite you to explore our range and experience the difference that quality craftsmanship can make.
 
                 </p>
             </div>
@@ -302,7 +302,7 @@
 
     <section class="container-fluid py-5 p-0">
         <div class="row">
-            <h3 class="text-dark text-uppercase fw-bolder text-center">General BK Online FAQs</h3>
+            <h3 class="text-dark text-uppercase fw-bolder text-center">General OpulentHomeInteriors FAQs</h3>
         </div>
         <div class="row">
             <div class="col-lg-12">

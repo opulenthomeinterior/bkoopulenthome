@@ -29,9 +29,9 @@
                     <li class="my-1"><i class="ri-arrow-right-s-fill"></i><small>30% off All Trade Account
                             Orders</small></li>
                     <li class="my-1"><i class="ri-arrow-right-s-fill"></i><small>The offer applies to all products on
-                            bkonline.co.uk with the exclusion of Appliances. </small></li>
+                            opulenthomeinteriors.co.uk with the exclusion of Appliances. </small></li>
                     <li class="my-1"><i class="ri-arrow-right-s-fill"></i><small>This applies to any customers who
-                            have a trade account with BK Online on our e-commerce site only. </small></li>
+                            have a trade account with OpulentHomeInteriors on our e-commerce site only. </small></li>
                     <li class="my-1"><i class="ri-arrow-right-s-fill"></i><small>Offer applies to trade orders via the
                             e-commerce site only. </small></li>
                     <li class="my-1"><i class="ri-arrow-right-s-fill"></i><small>This applies to ALL trade account
@@ -59,7 +59,7 @@
 
                 <ul class="p-0 py-1">
                     <li class="my-1"><i class="ri-arrow-right-s-fill"></i><small>Prices quoted are for the listed
-                            components that make up the kitchen based on that specific kitchen design. BK Online offer
+                            components that make up the kitchen based on that specific kitchen design. OpulentHomeInteriors offer
                             the design service free of charge.
                         </small></li>
                     <li class="my-1"><i class="ri-arrow-right-s-fill"></i><small>Prices are based on flat-pack
@@ -69,7 +69,7 @@
                             end during this 30 day period.
                         </small></li>
                     <li class="my-1"><i class="ri-arrow-right-s-fill"></i><small>All kitchens must be ordered through
-                            the BK Online e-commerce site (https://bkonline.co.uk) only.
+                            the OpulentHomeInteriors e-commerce site (https://opulenthomeinteriors.co.uk) only.
                         </small></li>
                     <li class="my-1"><i class="ri-arrow-right-s-fill"></i><small>Standard delivery to UK Mainland is
                             free. Surcharges may apply to other areas.
@@ -95,7 +95,7 @@
                     <li class="my-1"><i class="ri-arrow-right-s-fill"></i><small>30% off All Trade Account
                             Orders</small></li>
                     <li class="my-1"><i class="ri-arrow-right-s-fill"></i><small>This applies to any customers who
-                            have a trade account with BK Online on our e-commerce site only.</small></li>
+                            have a trade account with OpulentHomeInteriors on our e-commerce site only.</small></li>
                     <li class="my-1"><i class="ri-arrow-right-s-fill"></i><small>This applies to ALL trade account
                             orders up to a max order value of £3,000 per order.</small></li>
                     <li class="my-1"><i class="ri-arrow-right-s-fill"></i><small>Offer applies for a limited period
@@ -173,13 +173,13 @@
                     a friend) scheme.
                 </h4>
                 <p>
-                    A referrer is someone who uses our member tools to email a friend and invite them to BK Online.
+                    A referrer is someone who uses our member tools to email a friend and invite them to OpulentHomeInteriors.
 
                     A referral customer is someone who after receiving a referrer’s invite, subsequently registers an
                     account, then places an order.
 
                     A Trade Mates E-Voucher describes the electronic voucher that is created and assigned to the
-                    referrers BK Online account, should a referral customer become active.
+                    referrers OpulentHomeInteriors account, should a referral customer become active.
 
                     The value of a new Trade Mates E-Voucher is currently £50.
                 </p>
@@ -187,7 +187,7 @@
                 <ul class="p-0 py-1">
                     <li class="my-1"><i class="ri-arrow-right-s-fill"></i><small>Should a referral customer register
                             and place an order within 180 days of receiving an invite, an E-Voucher will be activated in
-                            the referrer’s BK Online account.</small></li>
+                            the referrer’s OpulentHomeInteriors account.</small></li>
                     <li class="my-1"><i class="ri-arrow-right-s-fill"></i><small>Trades Mate E-Vouchers have a
                             validity period of 180 days from activation. Once that period has passed, the Trades Mate
                             E-Voucher will automatically be invalidated and removed from the referrer’s account.</small>
@@ -196,7 +196,7 @@
                             receiving invites from two or more referrers, only the most recent referrer will receive the
                             Trades Mate E-Voucher.</small></li>
                     <li class="my-1"><i class="ri-arrow-right-s-fill"></i><small>The Trades Mate E-Voucher can only
-                            be redeemed against a BK Online order. It cannot be exchanged for its monetary value nor
+                            be redeemed against a OpulentHomeInteriors order. It cannot be exchanged for its monetary value nor
                             is it transferable.</small></li>
                     <li class="my-1"><i class="ri-arrow-right-s-fill"></i><small>The referral can only be made by an
                             existing trade account holder.</small></li>

@@ -13,7 +13,7 @@
                     Fitting Guides
                 </h1>
                 <h4 class="text-dark">We've put together a host of step-by-step videos and downloads to help you
-                    understand, plan and install BK Online kitchens.</h4>
+                    understand, plan and install OpulentHomeInteriors kitchens.</h4>
             </div>
         </div>
     </section>
@@ -127,7 +127,7 @@
                         </div>
 
                         <div class="card-body h-100">
-                            <h3 class="fw-bold text-dark text-uppercase">BK Online faqs</h3>
+                            <h3 class="fw-bold text-dark text-uppercase">OpulentHomeInteriors faqs</h3>
                             <p>Having been making, packing and distributing kitchens since 1990, we have developed
                                 trusted
                                 methods to get what it is you need, to where you need it.</p>

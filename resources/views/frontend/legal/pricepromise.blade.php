@@ -52,10 +52,10 @@
                     <li class="my-1"><i class="ri-arrow-right-s-fill"></i><small>Applies to UK and NI only</small>
                     </li>
                     <li class="my-1"><i class="ri-arrow-right-s-fill"></i><small>Applies to Trade Account customers
-                            only who register for a Trade Account on the BK Online e-commerce site</small></li>
+                            only who register for a Trade Account on the OpulentHomeInteriors e-commerce site</small></li>
                     <li class="my-1"><i class="ri-arrow-right-s-fill"></i><small>Any successful claims against the
                             promise will generate a virtual credit note which must be used against a future kitchen
-                            order on the BK Online e-commerce site within 365 days</small></li>
+                            order on the OpulentHomeInteriors e-commerce site within 365 days</small></li>
                     <li class="my-1"><i class="ri-arrow-right-s-fill"></i><small>Extends to all kitchen furniture
                             excluding worktops, sinks, and taps</small></li>
                     <li class="my-1"><i class="ri-arrow-right-s-fill"></i><small>Applies to Howdens Trade prices at

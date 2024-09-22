@@ -15,7 +15,7 @@
                                             <div class="text-center mb-3">
                                                 <a href="{{ route('home') }}">
                                                     <span class="logo-lg">
-                                                        <img src="{{ asset('images/BKO_LOGO.png') }}" alt=""
+                                                        <img src="{{ asset('images/opulenthomelogo.png') }}" alt=""
                                                             width="100">
                                                     </span>
                                                 </a>

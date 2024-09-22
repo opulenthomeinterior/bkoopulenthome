@@ -18,7 +18,7 @@ use App\Models\Category;
     <title>BKOnline - <?php echo !empty($page_slug) ? $page_slug : 'Home page'; ?></title>
 
     <!-- App favicon -->
-    <link rel="shortcut icon" href="{{ asset('images/BKO_LOGO.png') }}">
+    <link rel="shortcut icon" href="{{ asset('images/opulenthomelogo.png') }}">
 
     <!-- Layout config Js -->
     <script src="{{ asset('js/layout.js') }}"></script>

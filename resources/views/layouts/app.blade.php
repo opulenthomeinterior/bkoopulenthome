@@ -14,8 +14,8 @@
     <meta name="csrf-token" content="{{ csrf_token() }}">
 
     <!-- App favicon -->
-    <link rel="icon" href="{{ asset('images/BKO_LOGO.png') }}">
-    <link rel="shortcut icon" href="{{ asset('images/BKO_LOGO.png') }}">
+    <link rel="icon" href="{{ asset('images/opulenthomelogo.png') }}">
+    <link rel="shortcut icon" href="{{ asset('images/opulenthomelogo.png') }}">
     <?php $current_uri = request()->segments(); ?>
     <?php $page_slug = ucwords(str_replace(['-', '_'], ' ', last($current_uri))); ?>
 
@@ -64,19 +64,19 @@
                         <div class="navbar-brand-box horizontal-logo">
                             <a href="{{ route('home') }}" class="logo logo-dark">
                                 <span class="logo-sm">
-                                    <img src="{{ asset('images/BKO_LOGO.png') }}" alt="" width="60">
+                                    <img src="{{ asset('images/opulenthomelogo.png') }}" alt="" width="60">
                                 </span>
                                 <span class="logo-lg">
-                                    <img src="{{ asset('images/BKO_LOGO.png') }}" alt="" width="100">
+                                    <img src="{{ asset('images/opulenthomelogo.png') }}" alt="" width="100">
                                 </span>
                             </a>
 
                             <a href="{{ route('home') }}" class="logo logo-light">
                                 <span class="logo-sm">
-                                    <img src="{{ asset('images/BKO_LOGO.png') }}" alt="" width="60">
+                                    <img src="{{ asset('images/opulenthomelogo.png') }}" alt="" width="60">
                                 </span>
                                 <span class="logo-lg">
-                                    <img src="{{ asset('images/BKO_LOGO.png') }}" alt="" width="100">
+                                    <img src="{{ asset('images/opulenthomelogo.png') }}" alt="" width="100">
                                 </span>
                             </a>
                         </div>
@@ -140,19 +140,19 @@
                 <!-- Dark Logo-->
                 <a href="{{ route('dashboard') }}" class="logo logo-dark">
                     <span class="logo-sm">
-                        <img src="{{ asset('images/BKO_LOGO.png') }}" alt="" width="60">
+                        <img src="{{ asset('images/opulenthomelogo.png') }}" alt="" width="60">
                     </span>
                     <span class="logo-lg">
-                        <img src="{{ asset('images/BKO_LOGO.png') }}" alt="" width="100">
+                        <img src="{{ asset('images/opulenthomelogo.png') }}" alt="" width="100">
                     </span>
                 </a>
                 <!-- Light Logo-->
                 <a href="{{ route('dashboard') }}" class="logo logo-light">
                     <span class="logo-sm">
-                        <img src="{{ asset('images/BKO_LOGO.png') }}" alt="" width="60">
+                        <img src="{{ asset('images/opulenthomelogo.png') }}" alt="" width="60">
                     </span>
                     <span class="logo-lg">
-                        <img src="{{ asset('images/BKO_LOGO.png') }}" alt="" width="100">
+                        <img src="{{ asset('images/opulenthomelogo.png') }}" alt="" width="100">
                     </span>
                 </a>
                 <button type="button" class="btn btn-sm p-0 fs-20 header-item float-end btn-vertical-sm-hover"
@@ -168,19 +168,19 @@
                     <!-- Dark Logo-->
                     <a href="{{ route('dashboard') }}" class="logo logo-dark">
                         <span class="logo-sm">
-                            <img src="{{ asset('images/BKO_LOGO.png') }}" alt="" width="60">
+                            <img src="{{ asset('images/opulenthomelogo.png') }}" alt="" width="60">
                         </span>
                         <span class="logo-lg">
-                            <img src="{{ asset('images/BKO_LOGO.png') }}" alt="" width="100">
+                            <img src="{{ asset('images/opulenthomelogo.png') }}" alt="" width="100">
                         </span>
                     </a>
                     <!-- Light Logo-->
                     <a href="{{ route('dashboard') }}" class="logo logo-light">
                         <span class="logo-sm">
-                            <img src="{{ asset('images/BKO_LOGO.png') }}" alt="" width="60">
+                            <img src="{{ asset('images/opulenthomelogo.png') }}" alt="" width="60">
                         </span>
                         <span class="logo-lg">
-                            <img src="{{ asset('images/BKO_LOGO.png') }}" alt="" width="100">
+                            <img src="{{ asset('images/opulenthomelogo.png') }}" alt="" width="100">
                         </span>
                     </a>
                     <button type="button" class="btn btn-sm p-0 fs-20 header-item float-end btn-vertical-sm-hover"

@@ -30,7 +30,7 @@
                 </p>
 
                 <p class="py-1">
-                Most web browsers automatically accept cookies, but you can usually modify your browser settings to decline cookies if you prefer. Cookies help us provide you with a better Website experience by allowing us to monitor what works well and what needs improvement through site traffic analysis. We use 5 cookie categories on the BA website:
+                Most web browsers automatically accept cookies, but you can usually modify your browser settings to decline cookies if you prefer. Cookies help us provide you with a better Website experience by allowing us to monitor what works well and what needs improvement through site traffic analysis. We use 5 cookie categories on the OpulentHomeInteriors website:
                 </p>
             </div>
 

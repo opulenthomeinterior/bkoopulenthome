@@ -22,8 +22,8 @@
                 <p>
                     This privacy policy sets out how KitchenKit uses and protects any information that you give us when
                     you use this website (the “Website”) or otherwise interact with us. When, in this policy, we refer
-                    to KitchenKit we mean BA Kitchen Components Limited, whose registered address is at Derryloran
-                    Industrial Estate, Cookstown, BT80 9LU (“BA Components”) and which is registered under company
+                    to KitchenKit we mean OpulentHomeInteriors Kitchen Components Limited, whose registered address is at Derryloran
+                    Industrial Estate, Cookstown, BT80 9LU (“OpulentHomeInteriors Components”) and which is registered under company
                     number NI029035 and who has another factory at Sandall Stones Road, Kirk Sandall, Doncaster, South
                     Yorkshire DN3 1QR.
                 </p>
@@ -48,7 +48,7 @@
                     Most web browsers automatically accept cookies, but you can usually prevent accepting cookies by
                     changing your browser settings. Cookies help us give you a better website, by letting us monitor
                     what’s working and what isn’t through site traffic analysis.
-                    We use 5 cookie categories on the BA website:
+                    We use 5 cookie categories on the OpulentHomeInteriors website:
                 </p>
 
                 <ol class="list-group list-group-numbered pb-2">
@@ -124,7 +124,7 @@
 
                 <h4 class="fw-bolder text-dark">Permit You To Access Our Website</h4>
                 <p>
-                    All our customers have access to our MyBA online service which has been specifically developed to
+                    All our customers have access to our OpulentHomeInteriors online service which has been specifically developed to
                     enable you to place and track orders within our production system, in addition to monitoring and
                     making payments to your account at your convenience.
                 </p>
@@ -138,7 +138,7 @@
                 <h4 class="fw-bolder text-dark">Process Payment And, If Necessary, Collect Arrears </h4>
                 <p>
                     We will use your information to set up a new account with us by requesting a credit check through a
-                    third party Experian. We will use your information for orders processed through our MyBA online
+                    third party Experian. We will use your information for orders processed through our OpulentHomeInteriors online
                     ordering system. Credit or other payment card details will be stored through a third party SagePay
                     who encrypts the data. For orders processed manually, we undergo an annual compliance test through a
                     third party Barclaycard to verify that we don’t hold any personal credit card or other payment card
@@ -235,8 +235,8 @@
 
                 <h4 class="fw-bolder text-dark"> Group Companies </h4>
                 <p>
-                    We will from time to time share your personal data with other companies within the BA Components
-                    group of companies, including BA Clic Components Ltd. We may do this because we need to in order to
+                    We will from time to time share your personal data with other companies within the OpulentHomeInteriors Components
+                    group of companies, including OpulentHomeInteriors Clic Components Ltd. We may do this because we need to in order to
                     fulfil your order or otherwise as necessary for our business purposes.
                 </p>
 

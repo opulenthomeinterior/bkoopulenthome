@@ -29,8 +29,8 @@
                     We eat, sleep and breathe kitchens and bedrooms, making them look incredible using the perfect mix
                     of quality, sustainable materials and cutting-edge design.
                     <br><br>
-                    Born out of a desire to offer better products and service in the market, BA was established in 1990
-                    and has gone from strength to strength since. BA operates from three state of the art factories in
+                    Born out of a desire to offer better products and service in the market, OpulentHomeInteriors was established in 1990
+                    and has gone from strength to strength since. OpulentHomeInteriors operates from three state of the art factories in
                     Cookstown, Co. Tyrone and two in Yorkshire at Rotherham and Doncaster.
                 </p>
 
@@ -56,8 +56,8 @@
                     We eat, sleep and breathe kitchens and bedrooms, making them look incredible using the perfect mix
                     of quality, sustainable materials and cutting-edge design.
                     <br><br>
-                    Born out of a desire to offer better products and service in the market, BA was established in 1990
-                    and has gone from strength to strength since. BA operates from three state of the art factories in
+                    Born out of a desire to offer better products and service in the market, OpulentHomeInteriors was established in 1990
+                    and has gone from strength to strength since. OpulentHomeInteriors operates from three state of the art factories in
                     Cookstown, Co. Tyrone and two in Yorkshire at Rotherham and Doncaster.
                 </p>
             </div>

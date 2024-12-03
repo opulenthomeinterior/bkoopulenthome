@@ -1,8 +1,0 @@
-User-agent: *
-
-Disallow:/site-pages/cookies-policy
-Disallow: /support/price-promise
-
-
-Sitemap: https://dynatrade-uae.com/main_sitemap.xml
-
